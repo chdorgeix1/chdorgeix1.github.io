@@ -11,5 +11,11 @@
     <ul>
       <li>Using Machine Learning to study Soil Microbiome Community Structure</li>
     </ul>
+    <h2>Connect with Me</h2>
+    <p>Here are some links to my relevant webpages:</p>
+    <ul>
+      <li><a href="https://www.linkedin.com/in/christian-d-orgeix-474a321b5/">LinkedIn Profile</a></li>
+      <li><a href="https://github.com/chdorgeix1/">GitHub Profile</a></li>
+    </ul>
   </body>
 </html>
